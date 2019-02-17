@@ -1,0 +1,2 @@
+['especially', 'carefully', 'evenly', 'finally']
+3
